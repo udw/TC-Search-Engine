@@ -8,7 +8,7 @@ hw2.include([
 
     var app = angular.module('engine', ['ui.router', 'ui.bootstrap', 'chieffancypants.loadingBar']);
 
-    return app.controller("HomeController", function ($scope, $http) {
+    app.controller("HomeController", function ($scope, $http) {
 
         var request = app.api + "version";
 

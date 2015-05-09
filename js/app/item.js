@@ -1,5 +1,4 @@
-hw2.include([
-]).define(function () {
+hw2.define(function () {
     var $ = this;
     var angular = $.global.angular;
     var app = angular.module('engine');
