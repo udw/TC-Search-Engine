@@ -1,0 +1,15 @@
+{
+  "name": "hw2/modules/js/modules/requirejs/r",
+  "_cacheHeaders": {
+    "ETag": "\"d5eb12-fe154-502835d9b8d80\"",
+    "Last-Modified": "Mon, 08 Sep 2014 01:01:58 GMT",
+    "Content-Length": "1040724",
+    "Content-Type": "application/javascript"
+  },
+  "_release": "e-tag:d5eb12-fe",
+  "main": "index.js",
+  "_res_type": "Url",
+  "_source": "http://requirejs.org/docs/release/2.1.15/r.js",
+  "_target": "*",
+  "_originalSource": "http://requirejs.org/docs/release/2.1.15/r.js"
+}

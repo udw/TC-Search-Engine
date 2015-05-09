@@ -1,0 +1,19 @@
+{
+  "name": "TC-Search-Engine",
+  "homepage": "https://github.com/ShinDarth/TC-Search-Engine",
+  "authors": [
+    "ShinDart"
+  ],
+  "description": "Search engine for TrinityCore",
+  "dependencies": {
+    "hw2/modules/js/src/library/class": "hw2-core/js-library-class"
+  },
+  "sandbox": true,
+  "devDependencies": {},
+  "_dyn_dependencies": {
+    "%application": {
+      "source": "hw2-core/js-library-class",
+      "name": "hw2/modules/js/src/library/class"
+    }
+  }
+}

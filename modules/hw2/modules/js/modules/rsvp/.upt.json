@@ -1,0 +1,14 @@
+{
+  "name": "hw2/modules/js/modules/rsvp",
+  "_cacheHeaders": {
+    "ETag": "\"6f7ccd79680de2d4ac0993111de7e8c57e3d3195\"",
+    "Content-Length": "53078",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:6f7ccd796",
+  "main": "index.js",
+  "_res_type": "Url",
+  "_source": "https://raw.githubusercontent.com/components/rsvp.js/d2740bfe52a3a3d63bb132d45490d3126bf0e065/rsvp.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/components/rsvp.js/d2740bfe52a3a3d63bb132d45490d3126bf0e065/rsvp.js"
+}
