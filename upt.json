@@ -2,7 +2,7 @@
   "name": "TC-Search-Engine",
   "homepage": "https://github.com/ShinDarth/TC-Search-Engine",
   "authors": [
-    "ShinDart"
+    "ShinDarth"
   ],
   "description": "Search engine for TrinityCore",
   "dependencies": {
